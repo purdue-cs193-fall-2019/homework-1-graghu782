@@ -1,3 +1,7 @@
+# Gautam's First CS193 Homework
+Favorite things about CS 193
+- Nothing yet :(
+
 ## Welcome to GitHub Pages
 
 Changes, changes, changes.
